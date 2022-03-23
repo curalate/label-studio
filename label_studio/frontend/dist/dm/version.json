@@ -1,6 +1,6 @@
 {
-  "message": "sticky columns button",
-  "commit": "68b0ea7ae8574aaf48e326ccdb9e389150139299",
+  "message": "remove gear when not labeling",
+  "commit": "535703f176c8dc914e4aa8c6761e6839659f9a18",
   "branch": "fix/DEV-790/return-column-button-quickview",
-  "date": "2022-03-21T17:26:46Z"
+  "date": "2022-03-23T00:19:18Z"
 }
