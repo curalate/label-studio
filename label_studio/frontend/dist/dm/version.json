@@ -1,6 +1,6 @@
 {
-  "message": "remove gear when not labeling",
-  "commit": "535703f176c8dc914e4aa8c6761e6839659f9a18",
+  "message": "Merge branch 'master' into fix/DEV-790/return-column-button-quickview",
+  "commit": "aebd86a65ea328d2a22a27d3c48bcc6b8c09add1",
   "branch": "fix/DEV-790/return-column-button-quickview",
-  "date": "2022-03-23T00:19:18Z"
+  "date": "2022-03-24T14:28:13Z"
 }
